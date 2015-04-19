@@ -1,0 +1,5 @@
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\bin\Release\ReadifyRedPill.dll.config
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\bin\Release\ReadifyRedPill.dll
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\bin\Release\ReadifyRedPill.pdb
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\obj\Release\ReadifyRedPill.dll
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\obj\Release\ReadifyRedPill.pdb

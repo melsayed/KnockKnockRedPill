@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadifyRedPill", "ReadifyRedPill\ReadifyRedPill.csproj", "{F15BAE55-A705-4166-B759-F8C83F147060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadifyRedPill.Test", "ReadifyRedPill.Test\ReadifyRedPill.Test.csproj", "{E2410304-D63E-46BC-AC6A-C14D8BD5A483}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RedPillWeb", "http://localhost:16622", "{0C700C8D-551D-4D32-A89B-3F363F58E185}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{f15bae55-a705-4166-b759-f8c83f147060}|ReadifyRedPill.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_16622"
+		Debug.AspNetCompiler.PhysicalPath = "RedPillWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_16622\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_16622"
+		Release.AspNetCompiler.PhysicalPath = "RedPillWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_16622\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "RedPillWeb\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{F15BAE55-A705-4166-B759-F8C83F147060} = {F15BAE55-A705-4166-B759-F8C83F147060}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15BAE55-A705-4166-B759-F8C83F147060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15BAE55-A705-4166-B759-F8C83F147060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15BAE55-A705-4166-B759-F8C83F147060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15BAE55-A705-4166-B759-F8C83F147060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2410304-D63E-46BC-AC6A-C14D8BD5A483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2410304-D63E-46BC-AC6A-C14D8BD5A483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2410304-D63E-46BC-AC6A-C14D8BD5A483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2410304-D63E-46BC-AC6A-C14D8BD5A483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C700C8D-551D-4D32-A89B-3F363F58E185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C700C8D-551D-4D32-A89B-3F363F58E185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C700C8D-551D-4D32-A89B-3F363F58E185}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C700C8D-551D-4D32-A89B-3F363F58E185}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

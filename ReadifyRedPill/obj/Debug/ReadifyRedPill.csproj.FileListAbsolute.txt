@@ -1,0 +1,24 @@
+D:\Projects\Readify\ReadifyRedPill\bin\Debug\ReadifyRedPill.dll.config
+D:\Projects\Readify\ReadifyRedPill\bin\Debug\ReadifyRedPill.dll
+D:\Projects\Readify\ReadifyRedPill\bin\Debug\ReadifyRedPill.pdb
+D:\Projects\Readify\ReadifyRedPill\obj\Debug\ReadifyRedPill.csprojResolveAssemblyReference.cache
+D:\Projects\Readify\ReadifyRedPill\obj\Debug\ReadifyRedPill.dll
+D:\Projects\Readify\ReadifyRedPill\obj\Debug\ReadifyRedPill.pdb
+D:\Personal\Job Application\Readify\Solution\ReadifyRedPill\bin\Debug\ReadifyRedPill.dll.config
+D:\Personal\Job Application\Readify\Solution\ReadifyRedPill\bin\Debug\ReadifyRedPill.dll
+D:\Personal\Job Application\Readify\Solution\ReadifyRedPill\bin\Debug\ReadifyRedPill.pdb
+D:\Personal\Job Application\Readify\Solution\ReadifyRedPill\obj\Debug\ReadifyRedPill.csprojResolveAssemblyReference.cache
+D:\Personal\Job Application\Readify\Solution\ReadifyRedPill\obj\Debug\ReadifyRedPill.dll
+D:\Personal\Job Application\Readify\Solution\ReadifyRedPill\obj\Debug\ReadifyRedPill.pdb
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill\bin\Debug\ReadifyRedPill.dll.config
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill\bin\Debug\ReadifyRedPill.dll
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill\bin\Debug\ReadifyRedPill.pdb
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill\obj\Debug\ReadifyRedPill.csprojResolveAssemblyReference.cache
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill\obj\Debug\ReadifyRedPill.dll
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill\obj\Debug\ReadifyRedPill.pdb
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\bin\Debug\ReadifyRedPill.dll.config
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\bin\Debug\ReadifyRedPill.dll
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\bin\Debug\ReadifyRedPill.pdb
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\obj\Debug\ReadifyRedPill.csprojResolveAssemblyReference.cache
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\obj\Debug\ReadifyRedPill.dll
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\obj\Debug\ReadifyRedPill.pdb

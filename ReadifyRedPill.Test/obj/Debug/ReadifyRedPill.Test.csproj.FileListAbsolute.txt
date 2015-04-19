@@ -1,0 +1,14 @@
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill.Test\bin\Debug\ReadifyRedPill.Test.dll
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill.Test\bin\Debug\ReadifyRedPill.Test.pdb
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill.Test\bin\Debug\ReadifyRedPill.dll
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill.Test\bin\Debug\ReadifyRedPill.pdb
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill.Test\obj\Debug\ReadifyRedPill.Test.csprojResolveAssemblyReference.cache
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill.Test\obj\Debug\ReadifyRedPill.Test.dll
+D:\Personal\Job Application\Readify\KnockKnock\ReadifyRedPill.Test\obj\Debug\ReadifyRedPill.Test.pdb
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill.Test\bin\Debug\ReadifyRedPill.Test.dll
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill.Test\bin\Debug\ReadifyRedPill.Test.pdb
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill.Test\bin\Debug\ReadifyRedPill.dll
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill.Test\bin\Debug\ReadifyRedPill.pdb
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill.Test\obj\Debug\ReadifyRedPill.Test.csprojResolveAssemblyReference.cache
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill.Test\obj\Debug\ReadifyRedPill.Test.dll
+C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill.Test\obj\Debug\ReadifyRedPill.Test.pdb
