@@ -22,3 +22,9 @@ C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\bin\Debug\Readif
 C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\obj\Debug\ReadifyRedPill.csprojResolveAssemblyReference.cache
 C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\obj\Debug\ReadifyRedPill.dll
 C:\Users\Ma7moud\Desktop\KnockKnock.arman-master\ReadifyRedPill\obj\Debug\ReadifyRedPill.pdb
+C:\Users\Ma7moud\Desktop\KnockKnockRedPill\ReadifyRedPill\obj\Debug\ReadifyRedPill.csprojResolveAssemblyReference.cache
+C:\Users\Ma7moud\Desktop\KnockKnockRedPill\ReadifyRedPill\obj\Debug\ReadifyRedPill.dll
+C:\Users\Ma7moud\Desktop\KnockKnockRedPill\ReadifyRedPill\bin\Debug\ReadifyRedPill.dll.config
+C:\Users\Ma7moud\Desktop\KnockKnockRedPill\ReadifyRedPill\bin\Debug\ReadifyRedPill.dll
+C:\Users\Ma7moud\Desktop\KnockKnockRedPill\ReadifyRedPill\bin\Debug\ReadifyRedPill.pdb
+C:\Users\Ma7moud\Desktop\KnockKnockRedPill\ReadifyRedPill\obj\Debug\ReadifyRedPill.pdb

@@ -75,11 +75,23 @@ namespace ReadifyRedPill
 
         public string ReverseWords(string s)
         {
+            if(string.IsNullOrEmpty(s))
+                throw new  ArgumentNullException();
+
             if (!string.IsNullOrEmpty(s))
             {
-                char[] chars = s.ToCharArray();
-                Array.Reverse(chars);
-                return new string(chars).ToString();
+                string[] words = s.Split(' ');
+                int len = words.Length;
+                string[] reverseWords=new string[len];
+
+                for (int i=0;i<len;i++)
+                {
+                    char[] chars = words[i].ToCharArray();
+                    Array.Reverse(chars);
+                    reverseWords[i] = new string(chars).ToString();
+                }
+
+                return string.Join(" ", reverseWords);
             }
             return "";
         }

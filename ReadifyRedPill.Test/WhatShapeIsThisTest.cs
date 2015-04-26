@@ -47,7 +47,7 @@ namespace ReadifyRedPill.Test
         {
             MyRedPill redPill = new MyRedPill();
             TriangleType type = redPill.WhatShapeIsThis(1, 2, 3);
-            Assert.AreEqual(type, TriangleType.Error);
+            Assert.AreEqual(type, TriangleType.Scalene);
         }
 
         [TestMethod]
@@ -64,7 +64,7 @@ namespace ReadifyRedPill.Test
         {
             MyRedPill redPill = new MyRedPill();
             TriangleType type = redPill.WhatShapeIsThis(3, 2, 1);
-            Assert.AreEqual(type, TriangleType.Error);
+            Assert.AreEqual(type, TriangleType.Scalene);
         }
 
         [TestMethod]
