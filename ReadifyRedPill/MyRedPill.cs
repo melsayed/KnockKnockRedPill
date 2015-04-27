@@ -11,6 +11,10 @@ namespace ReadifyRedPill
 {
     public class MyRedPill : IRedPill
     {
+        /// <summary>
+        /// Get Token
+        /// </summary>
+        /// <returns>Token Guid</returns>
         public Guid WhatIsYourToken()
         {
             return new Guid("7c6340e5-44d3-4114-82c7-8786db460245");
@@ -25,6 +29,7 @@ namespace ReadifyRedPill
 
             return Fib(n - 1) + Fib(n - 2);
         }
+       
         public long Fib2(long n)
         {
             if (n == 0)
@@ -44,6 +49,12 @@ namespace ReadifyRedPill
             }
             return second;
         }
+
+        /// <summary>
+        /// Get previous Fibonacci number
+        /// </summary>
+        /// <param name="n">Fibonacci number</param>
+        /// <returns>Return previous number of specified Fibonacci number</returns>
         public long FibonacciNumber(long n)
         {
             if (Math.Abs(n) > 92)
@@ -57,6 +68,14 @@ namespace ReadifyRedPill
             return Fib2(n);
 
         }
+
+        /// <summary>
+        /// Get Type of triangle 
+        /// </summary>
+        /// <param name="a">A</param>
+        /// <param name="b">B</param>
+        /// <param name="c">C</param>
+        /// <returns>Type of triangle</returns>
         public TriangleType WhatShapeIsThis(int a, int b, int c)
         {
             if (a <= 0 || b <= 0 || c <= 0)
@@ -73,6 +92,11 @@ namespace ReadifyRedPill
                 return TriangleType.Error;
         }
 
+        /// <summary>
+        /// reverse words 
+        /// </summary>
+        /// <param name="s">Words needed to be reversed</param>
+        /// <returns>reversed word</returns>
         public string ReverseWords(string s)
         {
             if(string.IsNullOrEmpty(s))
