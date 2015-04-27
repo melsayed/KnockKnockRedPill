@@ -51,10 +51,10 @@ namespace ReadifyRedPill
         }
 
         /// <summary>
-        /// Get previous Fibonacci number
+        /// find the Nth term in the Fibonacci sequence
         /// </summary>
-        /// <param name="n">Fibonacci number</param>
-        /// <returns>Return previous number of specified Fibonacci number</returns>
+        /// <param name="n">Fibonacci sequence</param>
+        /// <returns>Return Fibonacci number in the Fibonacci sequence</returns>
         public long FibonacciNumber(long n)
         {
             if (Math.Abs(n) > 92)
